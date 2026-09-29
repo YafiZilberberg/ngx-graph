@@ -98,7 +98,7 @@
     "@typescript-eslint/utils": "8.53.1",
     "angular-cli-ghpages": "^0.6.2",
     "cross-env": "^7.0.2",
-    "electron": "42.0.1",
+    "electron": "42.10.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-security": "^1.4.0",
